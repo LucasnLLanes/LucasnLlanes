@@ -10,7 +10,6 @@ I graduated with a degree in Tecnico Superior en Analista de Sistemas. I'm expan
 
 - 💻: I am a ` Tecnico Superior en Analista de Sistemas ` 
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Tecnico Superior en ciencia de datos e inteligencia artificial` 
 - :nerd_face: Always `learning new things`.
 - 📫Reach out to me at: lucasllanes46@gmail.com.
