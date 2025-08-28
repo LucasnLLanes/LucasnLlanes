@@ -6,7 +6,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I graduated with a degree in Tecnico Superior en Analista de Sistemas. I'm expanding my knowledge in front-end and back-end development and currently work as a professor teaching technology education. I'm passionate about learning and creating something new, productive, innovative, and creative.
+I graduated with a degree in Tecnico Superior en Analista de Sistemas. I'm expanding my knowledge in front-end and back-end development and currently work as a professor teaching technology education. I'm passionate about learning and creating something new, productive, innovative, and creative. 
 
 - 💻: I am a ` Tecnico Superior en Analista de Sistemas ` 
 - :technologist: I love using Software as a solution for every `Problem`.
