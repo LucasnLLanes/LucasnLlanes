@@ -38,5 +38,4 @@ I graduated with a degree in Tecnico Superior en Analista de Sistemas. I'm expan
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=LucasnLlanes&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/LucasnLlanes)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=LucasnLlanes&theme=material-palenight)](https://github.com/LucasnLlanes)
-</div>
+
